@@ -7,7 +7,7 @@ export default function HeroSection() {
         <div
           className="hero h-96 md:h-[500px] rounded-box overflow-hidden"
           style={{
-            backgroundImage: "url(src/image/1.jpeg)",
+            backgroundImage: "url(https://i.imgur.com/w1Kqze1.jpg)",
           }}
         >
           <div className="hero-overlay bg-opacity-60 bg-ghost"></div>
