@@ -11,7 +11,7 @@ export default function HeroSection() {
           }}
         >
           <div className="hero-overlay bg-opacity-60 bg-ghost"></div>
-          <div className="hero-content text-center text-secondary-content hover:bg-slate-600 rounded">
+          <div className="hero-content text-center text-secondary-content bg-slate-500 rounded-full">
             <div className="max-w-lg">
               <h1 className="mb-5 sm:mb-7 text-4xl sm:text-5xl font-bold">
                 Let's Make Your Product a Success
