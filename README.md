@@ -13,6 +13,7 @@ This project is a responsive landing page built using Vite, React JS, TailwindCS
 - **Customizable:** Simple data and image replacement for personalization.
 
 ## Technologies Used
+- Node JS
 - Vite
 - React JS
 - TailwindCSS
