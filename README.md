@@ -20,8 +20,10 @@ To set up this project locally, follow these steps:
 1. Clone the repository to your local machine.
 2. Navigate to the project directory.
 3. Run the following commands:
-npm install
-npm run dev
+   
+- npm install
+- npm run dev
+  
 4. The project should now be running on your local server.
 
 ## Usage
