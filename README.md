@@ -1,5 +1,8 @@
 # DaisyUI Responsive Landing Page
 
+Preview
+https://joyful-dolphin-ac5971.netlify.app
+
 ## Overview
 This project is a responsive landing page built using Vite, React JS, TailwindCSS, and DaisyUI. It's designed to be fully responsive across all devices, scalable, and easily customizable. With an added feature of 32 different themes available at the click of a button, it offers versatility and a wide range of aesthetic choices for any project.
 
