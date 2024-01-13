@@ -64,12 +64,12 @@ export default function Header() {
                 tabIndex={0}
                 className="menu menu-sm dropdown-content mt-1 z-[1] p-2 shadow bg-base-200 rounded-box w-52"
               >
-                <div className="grid grid-flow-col gap-4">
+                <div className="grid grid-flow-col gap-1">
                   <a className="link link-secondary" href="#!">
                     <i className="btn bi bi-facebook text-xl btn-primary sm:btn-wide"></i>
                   </a>
                   <a className="link link-secondary" href="#!">
-                    <i className="bi bi-instagram text-xl btn-ghost sm:btn-wide"></i>
+                    <i className="btn bi bi-instagram text-xl btn-secondary sm:btn-wide"></i>
                   </a>
                 </div>
               </ul>
